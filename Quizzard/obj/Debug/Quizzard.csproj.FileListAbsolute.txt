@@ -1,0 +1,7 @@
+C:\Users\Vince\source\repos\Quizzard\Quizzard\bin\Debug\Quizzard.exe.config
+C:\Users\Vince\source\repos\Quizzard\Quizzard\bin\Debug\Quizzard.exe
+C:\Users\Vince\source\repos\Quizzard\Quizzard\bin\Debug\Quizzard.pdb
+C:\Users\Vince\source\repos\Quizzard\Quizzard\obj\Debug\Quizzard.csprojResolveAssemblyReference.cache
+C:\Users\Vince\source\repos\Quizzard\Quizzard\obj\Debug\Quizzard.csproj.CoreCompileInputs.cache
+C:\Users\Vince\source\repos\Quizzard\Quizzard\obj\Debug\Quizzard.exe
+C:\Users\Vince\source\repos\Quizzard\Quizzard\obj\Debug\Quizzard.pdb

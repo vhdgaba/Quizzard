@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Quizzard>
+  <Quiz id="ABD" type="Identification" order="False" enAlt="True" enHint="True">
+    <Item>
+      <Question>What is the capital of China?</Question>
+      <Answer>Beijing</Answer>
+      <Hint>No hint available for this question</Hint>
+      <Alternate-Answer>beijing</Alternate-Answer>
+      <Alternate-Answer>bj</Alternate-Answer>
+      <Alternate-Answer>bjing</Alternate-Answer>
+    </Item>
+    <Item>
+      <Question>What is the capital of Philippines?</Question>
+      <Answer>Manila</Answer>
+      <Hint>It is a type of paper</Hint>
+      <Alternate-Answer>manila</Alternate-Answer>
+    </Item>
+    <Item>
+      <Question>What is the capital of South Korea?</Question>
+      <Answer>Seoul</Answer>
+      <Hint>No hint available for this question</Hint>
+      <Alternate-Answer>seoul</Alternate-Answer>
+    </Item>
+  </Quiz>
+  <Quiz id="ABC" type="Multiple Choice" order="False">
+    <Item>
+      <Question>It is a set of values together with a set of operations</Question>
+      <Answer>Data Type</Answer>
+      <Choice>Data Type</Choice>
+      <Choice>Variable</Choice>
+      <Choice>Class</Choice>
+      <Choice>Function</Choice>
+    </Item>
+    <Item>
+      <Question>It means C with classes</Question>
+      <Answer>C++</Answer>
+      <Choice>C#</Choice>
+      <Choice>Objective C</Choice>
+      <Choice>C++</Choice>
+      <Choice>C-classes</Choice>
+    </Item>
+    <Item>
+      <Question>What is 1 + 1</Question>
+      <Answer>2</Answer>
+      <Choice>1</Choice>
+      <Choice>2</Choice>
+      <Choice>3</Choice>
+      <Choice>4</Choice>
+    </Item>
+  </Quiz>
+</Quizzard>
